@@ -1,0 +1,17 @@
+﻿global using AutoMapper;
+global using Company.API.Models;
+global using Company.Core.Abstraction.Repository;
+global using Company.Core.DTO;
+global using Company.Core.Entity;
+global using Company.Infrastructure.DbNext.WebApplication3.Data;
+global using Company.Infrastructure.Repository;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.OpenApi.Models;
+global using System.Text;
+global using Company.Application.Commands.Users;
+global using Company.Application.Queries;
+global using MediatR;

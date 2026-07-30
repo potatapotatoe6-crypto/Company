@@ -1,0 +1,14 @@
+D:\Practice\Company\Company.Core\bin\Debug\net8.0\Company.Core.deps.json
+D:\Practice\Company\Company.Core\bin\Debug\net8.0\Company.Core.runtimeconfig.json
+D:\Practice\Company\Company.Core\bin\Debug\net8.0\Company.Core.dll
+D:\Practice\Company\Company.Core\bin\Debug\net8.0\Company.Core.pdb
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.csproj.AssemblyReference.cache
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.AssemblyInfoInputs.cache
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.AssemblyInfo.cs
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.csproj.CoreCompileInputs.cache
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.dll
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\refint\Company.Core.dll
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.pdb
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\Company.Core.genruntimeconfig.cache
+D:\Practice\Company\Company.Core\obj\Debug\net8.0\ref\Company.Core.dll

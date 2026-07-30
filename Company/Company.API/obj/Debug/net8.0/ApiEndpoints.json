@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Company.API.Controllers.UserController",
+    "Method": "GetUsersAsync",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company.API.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Company.API.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company.API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Company.API.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+D:\Practice\Company\Company.Application\bin\Debug\net8.0\Company.Application.deps.json
+D:\Practice\Company\Company.Application\bin\Debug\net8.0\Company.Application.dll
+D:\Practice\Company\Company.Application\bin\Debug\net8.0\Company.Application.pdb
+D:\Practice\Company\Company.Application\bin\Debug\net8.0\Company.Core.dll
+D:\Practice\Company\Company.Application\bin\Debug\net8.0\Company.Core.pdb
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.csproj.AssemblyReference.cache
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.AssemblyInfoInputs.cache
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.AssemblyInfo.cs
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.csproj.CoreCompileInputs.cache
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company..2E953A1E.Up2Date
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.dll
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\refint\Company.Application.dll
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\Company.Application.pdb
+D:\Practice\Company\Company.Application\obj\Debug\net8.0\ref\Company.Application.dll

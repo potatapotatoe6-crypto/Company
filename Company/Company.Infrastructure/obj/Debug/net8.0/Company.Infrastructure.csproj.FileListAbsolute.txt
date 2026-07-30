@@ -1,0 +1,15 @@
+D:\Practice\Company\Company.Infrastructure\bin\Debug\net8.0\Company.Infrastructure.deps.json
+D:\Practice\Company\Company.Infrastructure\bin\Debug\net8.0\Company.Infrastructure.dll
+D:\Practice\Company\Company.Infrastructure\bin\Debug\net8.0\Company.Infrastructure.pdb
+D:\Practice\Company\Company.Infrastructure\bin\Debug\net8.0\Company.Core.dll
+D:\Practice\Company\Company.Infrastructure\bin\Debug\net8.0\Company.Core.pdb
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.csproj.AssemblyReference.cache
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.AssemblyInfoInputs.cache
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.AssemblyInfo.cs
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company..EB44F2F7.Up2Date
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.dll
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\refint\Company.Infrastructure.dll
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\Company.Infrastructure.pdb
+D:\Practice\Company\Company.Infrastructure\obj\Debug\net8.0\ref\Company.Infrastructure.dll
