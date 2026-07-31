@@ -1,0 +1,147 @@
+# =========================
+# Build Results
+# =========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+ 
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opendb
+*.cache
+*.dbmdl
+*.pdb
+ 
+# Visual Studio Index Files
+*.vidx
+*.vsidx
+*.ipch
+ 
+# =========================
+# VS Code
+# =========================
+.vscode/
+ 
+# =========================
+# JetBrains Rider
+# =========================
+.idea/
+*.sln.iml
+ 
+# =========================
+# Build / Publish
+# =========================
+publish/
+artifacts/
+out/
+dist/
+ 
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+ 
+# =========================
+# Test Results
+# =========================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+ 
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+ 
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.old
+ 
+# =========================
+# OS Files
+# =========================
+Thumbs.db
+Desktop.ini
+.DS_Store
+ 
+# =========================
+# ReSharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+ 
+# =========================
+# DotCover
+# =========================
+*.dotCover
+ 
+# =========================
+# BenchmarkDotNet
+# =========================
+BenchmarkDotNet.Artifacts/
+ 
+# =========================
+# Local Database
+# =========================
+*.mdf
+*.ldf
+ 
+# =========================
+# SQL Server LocalDB
+# =========================
+*.db
+ 
+# =========================
+# Azure
+# =========================
+.publishsettings
+ 
+# =========================
+# Secrets
+# =========================
+secrets.json
+appsettings.Development.json
+ 
+# =========================
+# Node (if Angular/React)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+ 
+# =========================
+# Generated Files
+# =========================
+Generated/
+GeneratedFiles/
+ 
+# =========================
+# Misc
+# =========================
+*.pid
+*.seed
+*.orig
