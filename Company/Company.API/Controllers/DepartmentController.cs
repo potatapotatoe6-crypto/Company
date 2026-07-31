@@ -12,7 +12,7 @@
             bool result = await mediator.Send(command);
             if (!result)
             {
-                return BadRequest("Username Already exists");
+                return BadRequest("Username Already exists.....");
             }
             return Ok("User register successfully");
         }
